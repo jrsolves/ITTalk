@@ -1,18 +1,18 @@
 [
   {
-    term: "bootstrap",
-    definition: "Bootstrap is a front-end framework for responsive web design."
+    "term": "bootstrap",
+    "definition": "Bootstrap is a front-end framework for responsive web design."
   },
   {
-    term: "CLI",
-    definition: "Command Line Interface for controlling software via typed commands."
+    "term": "CLI",
+    "definition": "Command Line Interface for controlling software via typed commands."
   },
   {
-    term: "API",
-    definition: "An interface for connecting software applications."
+    "term": "API",
+    "definition": "An interface for connecting software applications."
   }
   {
-    term: "APII",
-    definition: "Aasdjlaksjdalskdjaslkdjn interface for connecting software applications."
+    "term": "APII",
+    "definition": "Aasdjlaksjdalskdjaslkdjn interface for connecting software applications."
   }
 ]
